@@ -25,4 +25,4 @@ Console.WriteLine(number1 + number2); // prints 15 on the console
 ```
 
 ## Image
-![C#](./images/c#.jpg)
+![C Sharp](./images/c-sharp.jpg)
